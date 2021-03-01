@@ -1,7 +1,6 @@
 # Webscraping
 Web-scraped detailed product information from President's Day Discounts on eBay using Python. 
 
-Steps:
 Save URLs of sponsored and non-sponsored items separately
 Create two folders and download pages of sponsored and non-sponsored items
 Loop through the pages downloaded in previous step, open and parse them. Then identify and select: seller name, seller score, item price, # items sold, best offer available, title, returns allowed, shipping price, condition (e.g., used, new, like new, seller refurbished, ...).
